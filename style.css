@@ -1,3 +1,6 @@
+body{
+    padding-top: 50px;
+}
 .btn:hover{
     background-color: rgb(12, 110, 202) !important;
     
